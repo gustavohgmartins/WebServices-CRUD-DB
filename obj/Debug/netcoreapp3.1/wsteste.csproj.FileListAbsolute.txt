@@ -1,0 +1,147 @@
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.exe
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.deps.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.dev.json
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.csprojAssemblyReference.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfoInputs.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfo.cs
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.csproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.RazorTargetAssemblyInfo.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.Manifest.cache
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.xml
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.genruntimeconfig.cache
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vilma\Documents\workspace\wsteste\obj\Debug\netcoreapp3.1\wsteste.csproj.CopyComplete
+C:\Users\vilma\Documents\workspace\wsteste\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.exe
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.deps.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.dev.json
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csprojAssemblyReference.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfoInputs.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfo.cs
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CoreCompileInputs.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.RazorTargetAssemblyInfo.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CopyComplete
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.Manifest.cache
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.xml
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\vilmar.abreu\Drive\Aulas\Extensão\Bosch\workspace\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.genruntimeconfig.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.exe
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.deps.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.dev.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csprojAssemblyReference.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfoInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CoreCompileInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.RazorTargetAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CopyComplete
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.Manifest.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.xml
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\Integracao DB\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.genruntimeconfig.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.exe
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.deps.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.dev.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csprojAssemblyReference.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfoInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CoreCompileInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.RazorTargetAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.csproj.CopyComplete
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.Manifest.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.xml
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\obj\Debug\netcoreapp3.1\wsteste.genruntimeconfig.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\wstesteFull\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.exe
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.deps.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.runtimeconfig.dev.json
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.csprojAssemblyReference.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfoInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.AssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.csproj.CoreCompileInputs.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.RazorTargetAssemblyInfo.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.csproj.CopyComplete
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.Manifest.cache
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\staticwebassets\wsteste.StaticWebAssets.xml
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.dll
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.pdb
+C:\Users\gurak\Documents\Coding\Software-Developer-Course\C#\web services\webServices-CRUD-DB\obj\Debug\netcoreapp3.1\wsteste.genruntimeconfig.cache
